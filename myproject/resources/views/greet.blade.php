@@ -4,6 +4,6 @@
     <title>Greeting Page</title>
 </head>
 <body>
-    <h1>Hi, Welcome to Laravel Greeting Page!</h1>
+    <h1>Welcome to my Laravel Greeting Page!</h1>
 </body>
 </html>
